@@ -11,7 +11,7 @@ Solution file: hackathon_stocprediction.ipynb
 Screenshot : StockPredictionPlot.png
 
 --------------------------------------------------------------------------------------------------
-**2nd Problem Statement: **
+**2nd Problem Statement:**
 
 Stock buy, sell, hold recommendation on the basis of latest news
 
